@@ -1,6 +1,6 @@
 # Personal Introduction
 
-<img src="image.jpg" width="240" height="300" />
+<img src="image.jpg" width="258" height="300" />
 
 
 ## About
