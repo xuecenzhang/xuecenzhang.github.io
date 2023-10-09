@@ -1,6 +1,6 @@
 # Personal Introduction
 
-![Profile Image](your_profile_image_url.jpg)
+![Profile Image](image.HEIC)
 
 ## Basic Information
 
