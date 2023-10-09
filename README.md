@@ -1,6 +1,7 @@
 # Personal Introduction
 
-![Profile Image](image.jpg)
+<img src="image.jpg" width="300" height="200" />
+
 
 ## About
 
