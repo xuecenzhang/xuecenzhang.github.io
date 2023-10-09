@@ -11,30 +11,14 @@
 ## Education
 
 - Bachelor's Degree: Soochow Unversity, 2014-2018
-- Ma
-- Master's Degree: Case Western Researve University, 2021-present
+- Master's Degree: Jackson State University, 2018-2020
+- Doctorate's Degree: Case Western Researve University, 2021-present
 
 ## Skills
 
 - Programming Languages:  Python, JavaScript, Java, C++, HTML.
 - Technology Stack: Web Development, Machine Learning, Low-power Computer Vision.
 - Tools and Frameworks: TensorFlow, PyTorch.
-
-## Project Experience
-
-### Project Name 1
-
-- **Description:** Briefly describe the project's goals and functionality.
-- **Tech Stack:** Mention the technologies and tools used.
-- **Contribution:** Describe your role and contributions to the project.
-- **Link:** If there is a project link or demo, provide it.
-
-### Project Name 2
-
-- **Description:** Briefly describe the project's goals and functionality.
-- **Tech Stack:** Mention the technologies and tools used.
-- **Contribution:** Describe your role and contributions to the project.
-- **Link:** If there is a project link or demo, provide it.
 
 ## Contact Information
 
