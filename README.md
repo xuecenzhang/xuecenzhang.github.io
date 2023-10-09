@@ -1,6 +1,10 @@
 # Personal Introduction
 
-![Profile Image](image.HEIC)
+![Profile Image](image.jpg)
+
+## About
+
+I am currently a computer science PhD student at Case Western Reserve University, conducting research in the field of low-power computer vision under the supervision of Dr. Vipin Chaudhary. My work focuses on developing energy-efficient and high-speed computer vision models optimized for deployment on embedded systems. My goal is to bridge the gap between cutting-edge computer vision research and real-world applications by designing algorithms that enable faster and more efficient visual perception on resource-constrained devices.
 
 ## Basic Information
 
