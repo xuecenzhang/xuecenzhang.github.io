@@ -17,7 +17,7 @@ I am currently a computer science PhD student at Case Western Reserve University
 
 - Bachelor's Degree: Soochow Unversity, 2014-2018
 - Master's Degree: Jackson State University, 2018-2020
-- Doctorate's Degree: Case Western Researve University, 2021-present
+- Doctorate's Degree: Case Western Reserve University, 2021-present
 
 ## Skills
 
